@@ -3,8 +3,12 @@
 
 ## Activity 1
 ![screenshot of README.md](./assets/img/readme_screenshot.png)
-> A clean, beautiful, responsive portfolio template for Software Developers!
 
+## Activity 2
+![screenshot of repo](./assets/img/activity2_repo.png)
+![screenshot of repo](./assets/img/activity2_webpage.png)
+
+> A clean, beautiful, responsive portfolio template for Software Developers!
 > https://goelbenj.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/goelbenj/goelbenj.github.io) 
