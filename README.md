@@ -6,7 +6,11 @@
 
 ## Activity 2
 ![screenshot of repo](./assets/img/activity2_repo.png)
-![screenshot of repo](./assets/img/activity2_webpage.png)
+![screenshot of website](./assets/img/activity2_webpage.png)
+
+## Activity 3
+![screenshot of repo](./assets/img/activity3_repo.png)
+![screenshot of website](./assets/img/activity3_webpage.png)
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 > https://goelbenj.github.io
