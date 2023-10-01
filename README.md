@@ -12,6 +12,10 @@
 ![screenshot of repo](./assets/img/activity3_repo.png)
 ![screenshot of website](./assets/img/activity3_webpage.png)
 
+## Activity 4
+![screenshot of repo](./assets/img/activity4_repo.png)
+![screenshot of website](./assets/img/activity4_webpage.png)
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 > https://goelbenj.github.io
 
